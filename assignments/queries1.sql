@@ -1,8 +1,4 @@
-/*
-	Assignment 1.sql
-	Antoine Vo
-	CS 31A, Spring 2018 
-*/
+
 
 
 /* Query 0 */
